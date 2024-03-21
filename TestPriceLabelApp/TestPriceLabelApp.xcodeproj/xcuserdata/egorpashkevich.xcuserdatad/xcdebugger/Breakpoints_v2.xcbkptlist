@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0EA1D54D-CA2D-4503-BCA6-F3232A48A7F4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16AFFCFA-2FF7-4CD8-974B-5F046255C441"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestPriceLabelApp/Screens/PriceLabel/Model/PriceLabelViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "init(deps:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "16AFFCFA-2FF7-4CD8-974B-5F046255C441 - a56b4cea81669eb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestPriceLabelApp.PriceLabelViewModelImpl.init(deps: TestPriceLabelApp.PriceLabelViewModelExternalDeps) -&gt; TestPriceLabelApp.PriceLabelViewModelImpl"
+                  moduleName = "TestPriceLabelApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorpashkevich/Desktop/TestPriceLabelApp/TestPriceLabelApp/Screens/PriceLabel/Model/PriceLabelViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "16AFFCFA-2FF7-4CD8-974B-5F046255C441 - 6a990b74a0437186"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TestPriceLabelApp.PriceLabelSortType) -&gt; () in TestPriceLabelApp.PriceLabelViewModelImpl.init(deps: TestPriceLabelApp.PriceLabelViewModelExternalDeps) -&gt; TestPriceLabelApp.PriceLabelViewModelImpl"
+                  moduleName = "TestPriceLabelApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorpashkevich/Desktop/TestPriceLabelApp/TestPriceLabelApp/Screens/PriceLabel/Model/PriceLabelViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "16AFFCFA-2FF7-4CD8-974B-5F046255C441 - 6a990b74a0437186"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TestPriceLabelApp.PriceLabelSortType) -&gt; () in TestPriceLabelApp.PriceLabelViewModelImpl.init(deps: TestPriceLabelApp.PriceLabelViewModelExternalDeps) -&gt; TestPriceLabelApp.PriceLabelViewModelImpl"
+                  moduleName = "TestPriceLabelApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorpashkevich/Desktop/TestPriceLabelApp/TestPriceLabelApp/Screens/PriceLabel/Model/PriceLabelViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9302F4BB-203B-4670-9D40-25C0E26FD005"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestPriceLabelApp/Screens/PriceLabel/UI/Cells/LoadingCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "init(style:reuseIdentifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FBCF9F89-3D03-45B7-8F9F-C80F60AA0CF6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestPriceLabelApp/Screens/PriceLabel/Model/PriceLabelViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "onAppear()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CF1F806-1353-4F57-B4FD-98DC6B2D3636"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestPriceLabelApp/Screens/PriceLabel/Model/PriceLabelViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "onAppear()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFB80310-B9A6-4642-BB86-482CA621F18C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestPriceLabelApp/UIKit/LoadingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "setupIndicator()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DFB80310-B9A6-4642-BB86-482CA621F18C - df01a84039777ce3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestPriceLabelApp.LoadingView.setupIndicator() -&gt; ()"
+                  moduleName = "TestPriceLabelApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorpashkevich/Desktop/TestPriceLabelApp/TestPriceLabelApp/UIKit/LoadingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "DFB80310-B9A6-4642-BB86-482CA621F18C - df01a84039777ce3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestPriceLabelApp.LoadingView.setupIndicator() -&gt; ()"
+                  moduleName = "TestPriceLabelApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorpashkevich/Desktop/TestPriceLabelApp/TestPriceLabelApp/UIKit/LoadingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4C134FD-6C28-4EC3-B4DF-8625EB86AD75"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestPriceLabelApp/Manager/Toast/ToastManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "showToast(content:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
